@@ -18,8 +18,7 @@ A modern calculator built using Python and Tkinter with a clean UI.
 2. Run the command:
    python main.py
 
-## 📸 Screenshot
-(Add your app screenshot here)
+
 
 ## 👨‍💻 Author
 Aman Kumar
